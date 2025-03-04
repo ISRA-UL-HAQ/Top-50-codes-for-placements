@@ -1,17 +1,10 @@
 # **Striver A2Z DSA Sheet Solution using JAVA** 🔥🎯
 
-> ### _[Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 🚀 by [Raj Vikramaditya / Striver](https://www.linkedin.com/in/rajstriver/)(Founder of takeUforward). This repository contains Solution code using JAVA with different approaches and explanation._
-
 ### [Striver A2Z DSA Sheet Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 ### [takeUForward Youtube Channel Link](https://www.youtube.com/@takeUforward)
 
 
-## 🔥 **Clone this Repository** 💫
 
-You need to write the following commands on the terminal screen(in vscode) to clone this repository.
-
-```bash
-git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAVA.git
 ```
 
 
@@ -66,11 +59,3 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 - [Lec 4: Implementation Problems](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/Lec%204:%20Implementation%20Problems/)
 
 
-## 🔗 **Let's Connect** 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
-<a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1202345957216231446)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bharat__2044)
